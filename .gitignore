@@ -1,0 +1,4 @@
+.grunt
+*.sublime-workspace
+node_modules
+tests/libs
